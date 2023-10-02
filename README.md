@@ -1,5 +1,7 @@
 # MSI-MODERN-15-A5M
 
+> ⚠ **Warning**: Not Tested Yet
+
 | **Category**     | **Component**                   | **Kext**     |
 | ---------------- | --------------------------------|--------------|
 | **CPU**          | Ryzen 5 5500u                   | 
