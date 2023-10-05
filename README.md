@@ -1,7 +1,7 @@
 # MSI-MODERN-15-A5M
 
 > [!WARNING]  
-> Not Tested Yet
+> Under-Modification
 
 | **Category**     | **Component**                   | **Kext**     |
 | ---------------- | --------------------------------|:------------:|
@@ -13,4 +13,4 @@
 | **Wireless**     | MediaTek RZ608                  | :x:          |
 | **Card Reader**  | Realtek PCI-E Card Reader       |              |
 | **Keyboard**     | Standard PS/2 Keyboard          |              |
-| **Mouse**        | HID-compliant mouse             |              |
+| **Touchpad**     | HID-compliant mouse             |              |
