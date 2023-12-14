@@ -19,7 +19,7 @@
 | **CPU**         | Ryzen 5 5500u                   | :heavy_check_mark:  |
 | **Graphics**    | Radeon™ Graphics (512MB) `iGPU` | :heavy_check_mark:  |
 | **Drive**       | Kingston NVMe v1.3.0 `SSD`      | :heavy_check_mark:  |
-| **Audio**       | Realtek ALC256                  |                     |
+| **Audio**       | Realtek ALC256                  |         :x:         |
 | **Wireless**    | MediaTek RZ608                  |         :x:         |
 | **Card Reader** | Realtek PCI-E Card Reader       | :heavy_check_mark:  |
 | **Keyboard**    | Standard PS/2 Keyboard          | :heavy_check_mark:  |
