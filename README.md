@@ -37,7 +37,7 @@
 >
 > Don't go ahead without complete this step.
 
- References: [Raddit Post](https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=57356), Youtube Tutorials
+ References: [Raddit Post](https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=57356), [Youtube Tutorial by 'Everything Tech'](https://youtu.be/KEOEV65p-hQ?si=n4q0vmXEb-eQxtyv)
 
 ## Post-Installation:
 
@@ -57,3 +57,5 @@ Reference: https://github.com/lvs1974/ComboJack
 ## Facts:
 
 - As you know, WiFi(+BlueTooth) doesn't work and there is no ethernet port on this laptop, that's why `HoRNDIS.kext` for USB tethering is the only blessing for us.
+
+- I used sonoma raw by olarila + balenaEtcher to make offline installer.
