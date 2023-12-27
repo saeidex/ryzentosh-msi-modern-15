@@ -33,6 +33,7 @@
 
 > [!WARNING]
 > No Wireless + Ethernet: make offline installer 
+>
 > Don't go ahead without complete this step.
 
  References: [Raddit Post](https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=57356), Youtube Tutorials
