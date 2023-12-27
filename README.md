@@ -21,6 +21,7 @@
 | **Drive**       | Kingston NVMe v1.3.0 `SSD`      | :heavy_check_mark:  |
 | **Speaker**     | Realtek ALC256                  | :heavy_check_mark:  |
 | **Mic**         | Realtek ALC256                  |         :x:         |
+| **Headset**     | ComboJack                       | :heavy_check_mark:  |
 | **Wireless**    | MediaTek RZ608                  |         :x:         |
 | **Card Reader** | Realtek PCI-E Card Reader       | :heavy_check_mark:  |
 | **Keyboard**    | Standard PS/2 Keyboard          | :heavy_check_mark:  |
