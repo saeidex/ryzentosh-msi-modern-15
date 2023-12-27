@@ -26,3 +26,24 @@
 | **Card Reader** | Realtek PCI-E Card Reader       | :heavy_check_mark:  |
 | **Keyboard**    | Standard PS/2 Keyboard          | :heavy_check_mark:  |
 | **Touchpad**    | HID-compliant mouse             | :heavy_check_mark:  |
+
+<!-- ## Pre-Installation: -->
+
+## Post-Installation:
+
+### Fix Headset ComboJack:
+
+Open Terminal and Run:
+
+```bash
+cd Desktop
+git clone https://github.com/lvs1974/ComboJack.git
+bash ComboJack/ComboJack_Installer/install.sh
+rm -rf ComboJack
+```
+
+Reference: https://github.com/lvs1974/ComboJack
+
+## Facts:
+
+- As you know, WiFi(+BlueTooth) doesn't work and there is no ethernet port on this laptop, that's why `HoRNDIS.kext` for USB tethering is the only blessing for us.
