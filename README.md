@@ -24,6 +24,7 @@
 | **Headset**     | ComboJack                       | :heavy_check_mark:  |
 | **Wireless**    | MediaTek RZ608                  |         :x:         |
 | **Card Reader** | Realtek PCI-E Card Reader       | :heavy_check_mark:  |
+| **WebCam**      |                                 |         :x:         |
 | **Keyboard**    | Standard PS/2 Keyboard          | :heavy_check_mark:  |
 | **Touchpad**    | HID-compliant mouse             | :heavy_check_mark:  |
 
