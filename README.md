@@ -1,6 +1,6 @@
 # MSI-MODERN-15-A5M
 
-<img src="Screenshot 2023-10-13 at 03.41.29.png">
+<img src="Screenshot 2024-01-01 at 3.03.02 AM.png">
 
 ---
 
