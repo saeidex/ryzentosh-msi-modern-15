@@ -33,9 +33,9 @@
 ### Step 0: Offline Installer
 
 > [!WARNING]
-> No Wireless + Ethernet --> make offline installer
+> No Wireless + Ethernet --> Make offline installer
 > 
-> We've another solution btw. [see bellow](#facts)
+> We've another solution btw. [See bellow](#facts)
 
  References: [Raddit Post](https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=57356), [Youtube Tutorial by 'Everything Tech'](https://youtu.be/KEOEV65p-hQ?si=n4q0vmXEb-eQxtyv)
 
@@ -57,5 +57,5 @@ Reference: https://github.com/lvs1974/ComboJack
 ## Facts:
 
 - As you know, WiFi(+BlueTooth) doesn't work and there is no ethernet port on this laptop, that's why `HoRNDIS.kext` for USB tethering is the only blessing for us.
-- By putting this kext on your EFI you are able to use the internet by USB tethering on Recovery mode. I think, it also works on Installation Stage.
+- By putting this kext in your EFI you will be able to use the internet via USB tethering in recovery mode. I think, it also works in installation stage.
 - I used sonoma raw by olarila + balenaEtcher to make offline installer.
