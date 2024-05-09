@@ -1637,7 +1637,7 @@
                 <key>ProvideCurrentCpuInfo</key>
                 <true/>
                 <key>SetApfsTrimTimeout</key>
-                <integer>-1</integer>
+                <integer>0</integer>
                 <key>ThirdPartyDrives</key>
                 <false/>
                 <key>XhciPortLimit</key>
@@ -1940,23 +1940,23 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C022333104NPHC1AD</string>
+                <string>C02136500QXP8PGJC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>rBjlNBMX</data>
+                <data>t6LKKwDw</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac20,1</string>
+                <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02J7ZZRPN5T</string>
+                <string>C02GCUYBML7H</string>
                 <key>SystemUUID</key>
-                <string>86569E91-0758-49DA-AB9C-5BE8AA023BE5</string>
+                <string>D85AC48F-CA30-4640-A43E-C9AB5BBF7E2C</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
